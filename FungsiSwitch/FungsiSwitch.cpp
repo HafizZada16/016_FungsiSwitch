@@ -1,7 +1,12 @@
 #include <iostream>
+using namespace std;
+
+int bilA, bilB;
+
+void input
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }
 

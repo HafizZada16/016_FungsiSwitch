@@ -67,14 +67,14 @@ int main()
             break;
         case 5:
             break;
-        default: cout << "Pilihan Tidak Valid" << endl;
+        default: 
+            cout << "Pilihan anda salah" << endl;
             break;
         }
 
+        system("pause");
+        system("CLS");
 
-
-
-    } while();
-    
+    } while(pilihan != 5);
 }
 

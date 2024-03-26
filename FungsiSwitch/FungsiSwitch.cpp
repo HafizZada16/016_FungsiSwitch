@@ -55,15 +55,15 @@ int main()
             break;
         case 2:
             input();
-            cout << "Hasil Penjumlahan = " << pengurangan(bilA, bilB) << endl;
+            cout << "Hasil Pengurangan = " << pengurangan(bilA, bilB) << endl;
             break;
         case 3:
             input();
-            cout << "Hasil Penjumlahan = " << perkalian(bilA, bilB) << endl;
+            cout << "Hasil Perkalian = " << perkalian(bilA, bilB) << endl;
             break;
         case 4:
             input();
-            cout << "Hasil Penjumlahan = " << pembagian(bilA, bilB) << endl;
+            cout << "Hasil Pembagian = " << pembagian(bilA, bilB) << endl;
             break;
 
         }

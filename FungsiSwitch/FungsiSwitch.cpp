@@ -33,6 +33,11 @@ float pembagian(float a, float b)
 
 int main()
 {
-    
+    cout << "Kalkulator Sederhana" << endl;
+    cout << "====================" << endl;
+    cout << "1. Penjumlahan" << endl;
+    cout << "1. Pengurangan" << endl;
+    cout << "1. Perkalian" << endl;
+    cout << "1. Pembagian" << endl;
 }
 

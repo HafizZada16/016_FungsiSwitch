@@ -65,12 +65,16 @@ int main()
             input();
             cout << "Hasil Pembagian = " << pembagian(bilA, bilB) << endl;
             break;
-
+        case 5:
+            break;
+        default: cout << "Pilihan Tidak Valid" << endl;
+            break;
         }
 
 
 
 
-    } while ();
+    } while();
+    
 }
 
